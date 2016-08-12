@@ -19,3 +19,5 @@ Examples:
 
 `./wikiget.py "steve jobs"`
 > Steven Paul "Steve" Jobs (/ˈdʒɒbz/; February 24, 1955&#160;– October 5, 2011) was an American information technology entrepreneur and inventor. He was the co-founder, chairman, and chief executive officer (CEO) of Apple Inc.; CEO and majority shareholderof Pixar Animation Studios;[3] a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and founder, chairman, and CEO of NeXT Inc. Jobs is widely recognized as a pioneer of the microcomputer revolution of the 1970s and 1980s, along with Apple co-founder Steve Wozniak. Shortly after his death, Jobs's official biographer, Walter Isaacson, described him as a "creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing."[2]
+
+Tip: you can just set up an alias in your bashrc/zshrc such that 'wikiget' command runs this python file, or even add the directory to your python path to use it as a command.
