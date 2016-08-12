@@ -2,7 +2,7 @@
 **A quick and dirty** tool (written in python) to get a short hand summary of a topic from wikipedia.
 
 Usage:
-    wikiget <name/place/thing/etc>
+    wikiget *name/place/thing/etc*
 
 Not at all bug free. Certainly could be made much better and robust. More error handling.
 Just something I did in 5 minutes. Found it very useful. And I don't need more than this.
