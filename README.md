@@ -1,5 +1,5 @@
 # wikiget
-A **A quick and dirty** tool (written in python) to get a short hand summary of a topic from wikipedia.
+**A quick and dirty** tool (written in python) to get a short hand summary of a topic from wikipedia.
 
 Usage: *wikiget <name/place/thing>*
 
